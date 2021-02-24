@@ -11,4 +11,4 @@ For Unit testing
 - After launching the Sln
 - Open the menu bar > Test > Test Explorer 
 - Right click on the project name as shown in the window and Run Tests.
-![Screenshot for Running Testcases](images/shot-1.png)
+![Screenshot for Running Testcases](./images/shot-1.png)
